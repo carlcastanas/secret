@@ -1,0 +1,22 @@
+body{
+    background-color: #f2f2f2;
+
+}
+.button1{
+    background-color: #02005ad2;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 30px;
+    margin: auto;  
+    display: flex;  
+    justify-content: center;  
+    align-items: center;  
+    position: relative;
+}
+.button1:hover{
+    background-color: #008f05c7;
+    color: rgb(253, 253, 253);
+    text-decoration: none;
+}
